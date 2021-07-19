@@ -1,0 +1,14 @@
+{
+  "data": {
+    "items": [
+      {
+        "id": 1,
+        "name": "Audi"
+      },
+      {
+        "id": 2,
+        "name": "BMW"
+      }
+    ]
+  }
+}
